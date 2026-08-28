@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Solution Writer"
+  short_description: "Generate backend technical solution documents"
+  default_prompt: "Use $technical-solution-writer to analyze this project requirement and generate a complete backend technical solution in Markdown."
